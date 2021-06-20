@@ -80,6 +80,7 @@ function crearInstanciaPersona(nombre, apellido, edad, dir) {
   return persona;
 }
 
+
   
 function agregarMetodo() {
   //La función agrega un método "datos" a la clase Persona que toma el nombre y la edad de la persona y devuelve: 
